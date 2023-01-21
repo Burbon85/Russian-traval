@@ -1,0 +1,15 @@
+.place__url-haeding {
+    font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 12px;
+  letter-spacing: 2px;
+  color: #AAAAAA;
+  margin: 0;
+  }
+  @media screen and (max-width: 320px) {
+    .place__url-haeding{
+      padding-bottom: 12px;      
+    }
+  }
