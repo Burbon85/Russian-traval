@@ -1,11 +1,11 @@
 .cover__conteiner {
-    color: #FFFFFF; 
+    color: #FFFFFF;
     background-image: url(../../../images/cover-trains.jpg);
     height: 740px;
     background-size: cover;
     background-repeat: no-repeat;
     z-index: 1;
-    position: relative;  
+    position: relative;
     display: flex;
     flex-direction: column;
     justify-content: center;

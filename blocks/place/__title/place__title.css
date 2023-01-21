@@ -9,7 +9,7 @@
   }
   @media screen and (max-width: 768px) {
     .place__title{
-      max-width: 340px
+      max-width: 340px;
     }
   }
   @media screen and (max-width: 320px) {
