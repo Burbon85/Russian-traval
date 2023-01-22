@@ -12,7 +12,7 @@
     background-color: #2A2C2F;
     position: relative;
     background-size: auto;
-    overflow-x: hidden;
+    /* overflow-x: hidden; */
   }
 
   @media screen and (max-width: 1024px) {
