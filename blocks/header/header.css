@@ -3,6 +3,8 @@
     display: flex;
     justify-content: space-between;
     max-width: 1184px;
+    align-items: center;
+    max-height: 52px;
   }
   @media screen and (max-width: 1024px) {
     .header{
@@ -16,15 +18,13 @@
       margin-right: 24px;
     }
   }
-  @media screen and (max-width: 320px) {
+  @media screen and (max-width: 390px) {
     .header {
         margin-left: 16px;
         margin-right: 16px;
         margin-top: 16px;
-    }
-  }
-  @media screen and (max-width: 320px) {
-    .header {
         max-width: 288px;
+        height: 42px;
     }
   }
+  
